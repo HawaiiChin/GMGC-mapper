@@ -1,0 +1,5 @@
+*install from conda
+conda install -c bioconda gmgc-mapper
+*start
+gmgc-mapper -i assembly.fa.gz -o output
+* this will take hours
